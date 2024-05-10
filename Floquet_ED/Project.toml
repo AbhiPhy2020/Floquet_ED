@@ -1,0 +1,4 @@
+name = "Floquet_ED"
+uuid = "c5965151-ba72-4b6d-bdf8-46e027ee2b0e"
+authors = ["Abhishek Kumar <abhiphys2020@gmail.com>"]
+version = "0.1.0"
