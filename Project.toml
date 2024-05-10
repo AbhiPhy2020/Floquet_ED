@@ -1,0 +1,5 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+BlockDiagonals = "0a1fb500-61f7-11e9-3c65-f5ef3456f9f0"
+Kronecker = "2c470bb0-bcc8-11e8-3dad-c9649493f05e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
